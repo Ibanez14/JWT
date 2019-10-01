@@ -1,0 +1,14 @@
+E:\Documents\.NET Core projects (Learning)\Testing JWT\JasonWebTokenSolution\JasonWebToken\bin\Debug\netcoreapp2.2\MetanitJsonWebToken.deps.json
+E:\Documents\.NET Core projects (Learning)\Testing JWT\JasonWebTokenSolution\JasonWebToken\bin\Debug\netcoreapp2.2\MetanitJsonWebToken.runtimeconfig.json
+E:\Documents\.NET Core projects (Learning)\Testing JWT\JasonWebTokenSolution\JasonWebToken\bin\Debug\netcoreapp2.2\MetanitJsonWebToken.runtimeconfig.dev.json
+E:\Documents\.NET Core projects (Learning)\Testing JWT\JasonWebTokenSolution\JasonWebToken\bin\Debug\netcoreapp2.2\MetanitJsonWebToken.dll
+E:\Documents\.NET Core projects (Learning)\Testing JWT\JasonWebTokenSolution\JasonWebToken\bin\Debug\netcoreapp2.2\MetanitJsonWebToken.pdb
+E:\Documents\.NET Core projects (Learning)\Testing JWT\JasonWebTokenSolution\JasonWebToken\obj\Debug\netcoreapp2.2\MetanitJsonWebToken.csprojAssemblyReference.cache
+E:\Documents\.NET Core projects (Learning)\Testing JWT\JasonWebTokenSolution\JasonWebToken\obj\Debug\netcoreapp2.2\MetanitJsonWebToken.RazorAssemblyInfo.cache
+E:\Documents\.NET Core projects (Learning)\Testing JWT\JasonWebTokenSolution\JasonWebToken\obj\Debug\netcoreapp2.2\MetanitJsonWebToken.RazorAssemblyInfo.cs
+E:\Documents\.NET Core projects (Learning)\Testing JWT\JasonWebTokenSolution\JasonWebToken\obj\Debug\netcoreapp2.2\MetanitJsonWebToken.AssemblyInfoInputs.cache
+E:\Documents\.NET Core projects (Learning)\Testing JWT\JasonWebTokenSolution\JasonWebToken\obj\Debug\netcoreapp2.2\MetanitJsonWebToken.AssemblyInfo.cs
+E:\Documents\.NET Core projects (Learning)\Testing JWT\JasonWebTokenSolution\JasonWebToken\obj\Debug\netcoreapp2.2\MetanitJsonWebToken.RazorTargetAssemblyInfo.cache
+E:\Documents\.NET Core projects (Learning)\Testing JWT\JasonWebTokenSolution\JasonWebToken\obj\Debug\netcoreapp2.2\MetanitJsonWebToken.dll
+E:\Documents\.NET Core projects (Learning)\Testing JWT\JasonWebTokenSolution\JasonWebToken\obj\Debug\netcoreapp2.2\MetanitJsonWebToken.pdb
+E:\Documents\.NET Core projects (Learning)\Testing JWT\JasonWebTokenSolution\JasonWebToken\obj\Debug\netcoreapp2.2\MetanitJsonWebToken.csproj.CoreCompileInputs.cache
